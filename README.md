@@ -1,2 +1,2 @@
-# html-form
-A regular Application Form done using html and  internal css for styling the form....
+# web develop skills
+This consists of all learnt process of html css and javascript
