@@ -1,0 +1,45 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+.imgBox{
+    background-color: rgb(128, 203, 237);
+    width: 350px;
+    height: 530px;
+    margin-top: 50px;
+    margin-left: 80px;
+
+    border-radius: 20px;
+
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url('fashion.jpg');
+
+}
+#align{
+    text-align: center;
+}
+
+#price{
+    display: flex;  
+    align-items: center;
+    justify-content: end;
+    width:100% ;
+    padding: 50px;
+    height: 40px ;
+}
+
+#btn{
+    background-color: rgb(255, 87, 87);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 237px;
+    margin-bottom: 1000px;
+}
